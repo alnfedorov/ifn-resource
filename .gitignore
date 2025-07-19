@@ -1,0 +1,117 @@
+# PyCharm
+.idea
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pickled objects
+*.pkl
+
+# C extensions
+*.so
+
+# Nextflow
+star_salmon
+.nextflow*
+**/results
+
+# Fastq files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# BAM files
+*.bam
+*.bai
+
+# BigWig-like files
+*.bw
+*.bigwig
+*.bigWig
+*.BigWig
+*.bedGraph
+*.bedgraph
+
+# Tables
+*.tsv
+*.tsv.gz
+*.csv
+*.csv.gz
+
+# Salmon files
+*.sf
+*.sf.gz
+
+# Annotation
+*.gtf
+*.gtf.gz
+*.gff3
+*.gff3.gz
+
+# FASTA files
+*.fa
+*.fai
+*.fa.gz
+*.fa.gz.fai
+*.fa.gz.gzi
+*.fasta
+*.fasta.gz
+*.fasta.gz.fai
+*.fasta.gz.gzi
+
+# peaks
+*.narrowPeak
+*.broadPeak
+
+# BED files
+*.bed
+*.bed.gz
+*.bed.gz.tbi
+
+# Images
+*.png
+*.eps
+*.svg
+
+# Deprecated code
+deprecated/
+
+# pytorch checkpoints
+*.pth
+
+# tar archives
+*.tar

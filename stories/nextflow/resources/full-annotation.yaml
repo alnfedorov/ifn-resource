@@ -1,0 +1,20 @@
+fasta: 'resources/sequence.fa'
+gtf: 'resources/full-annotation.gtf'
+input: 'design.csv'
+# Trimming
+trimmer: fastp
+extra_fastp_args: '--detect_adapter_for_pe --trim_poly_x --trim_poly_g --poly_g_min_len=5 --poly_x_min_len=5'
+# Alignment
+save_unaligned: true
+pseudo_aligner: salmon
+# Bigwig
+bigwig_tool: deeptools
+# Irrelevant qc
+skip_dupradar: true
+skip_qualimap: true
+skip_biotype_qc: true
+skip_stringtie: true
+# Save-to
+save_reference: false
+publish_dir_mode: 'link'
+outdir: full-results

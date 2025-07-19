@@ -1,0 +1,508 @@
+ind: PRJEB60774
+experiments:
+  - ind: ERX10466137
+    sample: SAMEA112796978
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: R
+    runs:
+      - ind: ERR11030203
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10466137_ERR11030203_1.fastq.gz
+            - fastq/ERX10466137_ERR11030203_2.fastq.gz
+          orientation: I
+        reads: 85244634
+        bases: 12871939734
+        description: null
+  - ind: ERX10466138
+    sample: SAMEA112796972
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: R
+    runs:
+      - ind: ERR11030204
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10466138_ERR11030204_1.fastq.gz
+            - fastq/ERX10466138_ERR11030204_2.fastq.gz
+          orientation: I
+        reads: 95533344
+        bases: 14425534944
+        description: null
+  - ind: ERX10475515
+    sample: SAMEA112796974
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: F
+    runs:
+      - ind: ERR11039705
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10475515_ERR11039705_1.fastq.gz
+            - fastq/ERX10475515_ERR11039705_2.fastq.gz
+          orientation: I
+        reads: 86156962
+        bases: 13009701262
+        description: null
+  - ind: ERX10475516
+    sample: SAMEA112796975
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: R
+    runs:
+      - ind: ERR11039706
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10475516_ERR11039706_1.fastq.gz
+            - fastq/ERX10475516_ERR11039706_2.fastq.gz
+          orientation: I
+        reads: 96201912
+        bases: 14526488712
+        description: null
+  - ind: ERX10475529
+    sample: SAMEA112796976
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: R
+    runs:
+      - ind: ERR11039719
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10475529_ERR11039719_1.fastq.gz
+            - fastq/ERX10475529_ERR11039719_2.fastq.gz
+          orientation: I
+        reads: 108980536
+        bases: 16456060936
+        description: null
+  - ind: ERX10475581
+    sample: SAMEA112796981
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: R
+    runs:
+      - ind: ERR11039736
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10475581_ERR11039736_1.fastq.gz
+            - fastq/ERX10475581_ERR11039736_2.fastq.gz
+          orientation: I
+        reads: 82777488
+        bases: 12499400688
+        description: null
+  - ind: ERX10475594
+    sample: SAMEA112796982
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: F
+    runs:
+      - ind: ERR11039749
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10475594_ERR11039749_1.fastq.gz
+            - fastq/ERX10475594_ERR11039749_2.fastq.gz
+          orientation: I
+        reads: 89259364
+        bases: 13478163964
+        description: null
+  - ind: ERX10476248
+    sample: SAMEA112796979
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: R
+    runs:
+      - ind: ERR11040403
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10476248_ERR11040403_1.fastq.gz
+            - fastq/ERX10476248_ERR11040403_2.fastq.gz
+          orientation: I
+        reads: 100061450
+        bases: 15109278950
+        description: null
+  - ind: ERX10476334
+    sample: SAMEA112796987
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: F
+    runs:
+      - ind: ERR11040489
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10476334_ERR11040489_1.fastq.gz
+            - fastq/ERX10476334_ERR11040489_2.fastq.gz
+          orientation: I
+        reads: 77417662
+        bases: 11690066962
+        description: null
+  - ind: ERX10476340
+    sample: SAMEA112796983
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: F
+    runs:
+      - ind: ERR11040495
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10476340_ERR11040495_1.fastq.gz
+            - fastq/ERX10476340_ERR11040495_2.fastq.gz
+          orientation: I
+        reads: 80350116
+        bases: 12132867516
+        description: null
+  - ind: ERX10476454
+    sample: SAMEA112796984
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: R
+    runs:
+      - ind: ERR11040609
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10476454_ERR11040609_1.fastq.gz
+            - fastq/ERX10476454_ERR11040609_2.fastq.gz
+          orientation: I
+        reads: 80560266
+        bases: 12164600166
+        description: null
+  - ind: ERX10476465
+    sample: SAMEA112796988
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: R
+    runs:
+      - ind: ERR11040620
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10476465_ERR11040620_1.fastq.gz
+            - fastq/ERX10476465_ERR11040620_2.fastq.gz
+          orientation: I
+        reads: 77750008
+        bases: 11740251208
+        description: null
+  - ind: ERX10476466
+    sample: SAMEA112796986
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: F
+    runs:
+      - ind: ERR11040621
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10476466_ERR11040621_1.fastq.gz
+            - fastq/ERX10476466_ERR11040621_2.fastq.gz
+          orientation: I
+        reads: 83091628
+        bases: 12546835828
+        description: null
+  - ind: ERX10476470
+    sample: SAMEA112796985
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: F
+    runs:
+      - ind: ERR11040625
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10476470_ERR11040625_1.fastq.gz
+            - fastq/ERX10476470_ERR11040625_2.fastq.gz
+          orientation: I
+        reads: 102140520
+        bases: 15423218520
+        description: null
+  - ind: ERX10476471
+    sample: SAMEA112796989
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: R
+    runs:
+      - ind: ERR11040626
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10476471_ERR11040626_1.fastq.gz
+            - fastq/ERX10476471_ERR11040626_2.fastq.gz
+          orientation: I
+        reads: 81180636
+        bases: 12258276036
+        description: null
+  - ind: ERX10479637
+    sample: SAMEA112796980
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: R
+    runs:
+      - ind: ERR11040627
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10479637_ERR11040627_1.fastq.gz
+            - fastq/ERX10479637_ERR11040627_2.fastq.gz
+          orientation: I
+        reads: 96340478
+        bases: 14547412178
+        description: null
+  - ind: ERX10487730
+    sample: SAMEA112796973
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: R
+    runs:
+      - ind: ERR11040628
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10487730_ERR11040628_1.fastq.gz
+            - fastq/ERX10487730_ERR11040628_2.fastq.gz
+          orientation: I
+        reads: 97166056
+        bases: 14672074456
+        description: null
+  - ind: ERX10487731
+    sample: SAMEA112796977
+    library:
+      source:
+        - TRANSCRIPTOMIC
+      selection:
+        - PolyA
+      strandedness: R
+    runs:
+      - ind: ERR11040629
+        machine: 'ILLUMINA: Illumina NovaSeq 6000'
+        layout:
+          type: paired
+          files:
+            - fastq/ERX10487731_ERR11040629_1.fastq.gz
+            - fastq/ERX10487731_ERR11040629_2.fastq.gz
+          orientation: I
+        reads: 98560776
+        bases: 14882677176
+        description: null
+samples:
+  - ind: SAMEA112796978
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: B
+      condition: mock
+      title: B-mock
+    description: PBMCs from donor B unstimulated (24 h)
+  - ind: SAMEA112796972
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: A
+      condition: mock
+      title: A-mock
+    description: PBMCs from donor A unstimulated (24 h)
+  - ind: SAMEA112796974
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: A
+      condition: IFNa2a
+      title: A-IFNa2a
+    description: PBMCs from donor A stimulated with 250 U/ml IFNa2a for 24 h
+  - ind: SAMEA112796975
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: A
+      condition: IFNa10
+      title: A-IFNa10
+    description: PBMCs from donor A stimulated with 250 U/ml IFNa10 for 24 h
+  - ind: SAMEA112796976
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: A
+      condition: IFNb
+      title: A-IFNb
+    description: PBMCs from donor A stimulated with 250 U/ml IFNb for 24 h
+  - ind: SAMEA112796981
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: B
+      condition: IFNa10
+      title: B-IFNa10
+    description: PBMCs from donor B stimulated with 250 U/ml IFNa10 for 24 h
+  - ind: SAMEA112796982
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: B
+      condition: IFNb
+      title: B-IFNb
+    description: PBMCs from donor B stimulated with 250 U/ml IFNb for 24 h
+  - ind: SAMEA112796979
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: B
+      condition: IFNa1
+      title: B-IFNa1
+    description: PBMCs from donor B stimulated with 250 U/ml IFNa1 for 24 h
+  - ind: SAMEA112796987
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: C
+      condition: IFNa10
+      title: C-IFNa10
+    description: PBMCs from donor C stimulated with 250 U/ml IFNa10 for 24 h
+  - ind: SAMEA112796983
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: B
+      condition: IFNo
+      title: B-IFNo
+    description: PBMCs from donor B stimulated with 250 U/ml IFNo for 24 h
+  - ind: SAMEA112796984
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: C
+      condition: mock
+      title: C-mock
+    description: PBMCs from donor C unstimulated (24 h)
+  - ind: SAMEA112796988
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: C
+      condition: IFNb
+      title: C-IFNb
+    description: PBMCs from donor C stimulated with 250 U/ml IFNb for 24 h
+  - ind: SAMEA112796986
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: C
+      condition: IFNa2a
+      title: C-IFNa2a
+    description: PBMCs from donor C stimulated with 250 U/ml IFNa2a for 24 h
+  - ind: SAMEA112796985
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: C
+      condition: IFNa1
+      title: C-IFNa1
+    description: PBMCs from donor C stimulated with 250 U/ml IFNa1 for 24 h
+  - ind: SAMEA112796989
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: C
+      condition: IFNo
+      title: C-IFNo
+    description: PBMCs from donor C stimulated with 250 U/ml IFNo for 24 h
+  - ind: SAMEA112796980
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: B
+      condition: IFNa2a
+      title: B-IFNa2a
+    description: PBMCs from donor B stimulated with 250 U/ml IFNa2a for 24 h
+  - ind: SAMEA112796973
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: A
+      condition: IFNa1
+      title: A-IFNa1
+    description: PBMCs from donor A stimulated with 250 U/ml IFNa1 for 24 h
+  - ind: SAMEA112796977
+    organism:
+      - Homo sapiens
+    attributes:
+      donor: A
+      condition: IFNo
+      title: A-IFNo
+    description: PBMCs from donor A stimulated with 250 U/ml IFNo for 24 h
+description: Single-cell analysis of signalling and transcriptional responses to type I interferons
